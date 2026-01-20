@@ -33,7 +33,7 @@ Tenho experiência prática construindo desde scripts simples até aplicações 
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
 <br>
----
+
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/Dante-Alsino">
@@ -42,7 +42,7 @@ Tenho experiência prática construindo desde scripts simples até aplicações 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante-Alsino&layout=compact&langs_count=8&theme=radical&hide=php"/>
   </a>
 </div>
----
+
 ### 📫 Vamos Conversar?
 Estou sempre aberto a colaborações em projetos Open Source e novas oportunidades.
 Sinta-se à vontade para explorar meus repositórios ou abrir uma Issue se tiver ideias!
