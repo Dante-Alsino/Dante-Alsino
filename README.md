@@ -16,7 +16,6 @@ Uma visão organizada dos meus repositórios públicos e suas tecnologias princi
 | Repositório | Tecnologias Principais | Propósito Resumido |
 | :--- | :--- | :--- |
 | **[AutoClicker](https://github.com/Dante-Alsino/AutoClicker)** | 🐍 Python / Inno Setup | Ferramenta desktop completa para automação de rotinas no Windows. |
-| **[Postlygram](https://github.com/Dante-Alsino/Postlygram)** | 🐍 Python | Automação e scripts para gerenciamento de postagens e processos. |
 | **[FormularioCompass](https://github.com/Dante-Alsino/FormularioCompass)** | 🌐 JS / HTML / CSS | Interfaces web e formulários interativos (Estágio Compass). |
 | **[Api-Mini-Banco-Central](https://github.com/Dante-Alsino/Api-Mini-Banco-Central)** | ☕ JavaScript | API simulada para integração de dados financeiros. |
 | **[lab-natty-or-not](https://github.com/Dante-Alsino/lab-natty-or-not)** | 🤖 IA / Pesquisa | Estudo sobre o impacto da IA no futuro do trabalho. |
