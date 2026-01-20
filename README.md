@@ -19,32 +19,27 @@ Uma visão organizada dos meus repositórios públicos e suas tecnologias princi
 | **[Postlygram](https://github.com/Dante-Alsino/Postlygram)** | 🐍 Python | Automação e scripts para gerenciamento de postagens e processos. |
 | **[FormularioCompass](https://github.com/Dante-Alsino/FormularioCompass)** | 🌐 JS / HTML / CSS | Interfaces web e formulários interativos (Estágio Compass). |
 | **[Api-Mini-Banco-Central](https://github.com/Dante-Alsino/Api-Mini-Banco-Central)** | ☕ JavaScript | API simulada para integração de dados financeiros. |
-| **[dio-lab-open-source](https://github.com/Dante-Alsino/dio-lab-open-source)** | 📓 Jupyter Notebook | Notebooks educacionais sobre contribuição Open Source. |
 | **[lab-natty-or-not](https://github.com/Dante-Alsino/lab-natty-or-not)** | 🤖 IA / Pesquisa | Estudo sobre o impacto da IA no futuro do trabalho. |
 ---
 ## 🛠️ Tech Stack & Ferramentas
-Tenho expêriencia prática construindo desde scripts simples até aplicações completas.
+Tenho experiência prática construindo desde scripts simples até aplicações completas.
 <div style="display: inline_block"><br>
-  <!-- Python & Automação -->
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jupyter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  
-  <!-- Web Frontend & Backend -->
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!-- Ferramentas & DevOps -->
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
+<br>
 ---
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/Dante-Alsino">
+  <!-- Adicionei hide=php para esconder a linguagem inflada -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dante-Alsino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante-Alsino&layout=compact&langs_count=8&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante-Alsino&layout=compact&langs_count=8&theme=radical&hide=php"/>
   </a>
 </div>
 ---
