@@ -46,4 +46,4 @@ Tenho experiência prática construindo desde scripts simples até aplicações 
 ### 📫 Vamos Conversar?
 Estou sempre aberto a colaborações em projetos Open Source e novas oportunidades.
 Sinta-se à vontade para explorar meus repositórios ou abrir uma Issue se tiver ideias!
-[![Profile Views](https://komarev.com/ghpvc/?username=Dante-Alsino&color=0e75b6)](https://github.com/Dante-Alsino)
+
