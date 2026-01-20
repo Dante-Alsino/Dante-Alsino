@@ -34,6 +34,7 @@ Tenho experiência prática construindo desde scripts simples até aplicações 
 </div>
 <br>
 ---
+
 ## 📊 Minhas Estatísticas no GitHub
 <div align="center">
   <a href="https://github.com/Dante-Alsino">
@@ -43,6 +44,7 @@ Tenho experiência prática construindo desde scripts simples até aplicações 
   </a>
 </div>
 ---
+
 ### 📫 Vamos Conversar?
 Estou sempre aberto a colaborações em projetos Open Source e novas oportunidades.
 Sinta-se à vontade para explorar meus repositórios ou abrir uma Issue se tiver ideias!
