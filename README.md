@@ -1,48 +1,74 @@
-# Olá, sou Dante Alsino! 👋
-> **Desenvolvedor | Automação | Soluções em Python & Web**
-Sou um desenvolvedor apaixonado por transformar tarefas repetitivas em processos eficientes através da automação. Foco em criar softwares práticos, arquiteturas modulares e interfaces intuitivas que resolvem problemas reais.
----
-## 🏆 Projeto em Destaque
-### [AutoClicker Modular (v1.0.0)](https://github.com/Dante-Alsino/AutoClicker) 🚀
-**Uma ferramenta desktop completa para automação de cliques e teclado no Windows.**
-O **AutoClicker** não é apenas um script, é um produto de software robusto que representa minha evolução técnica. Ele foi projetado com foco em **experiência do usuário (UX)** e **qualidade de código**.
-| Interfaces Modernas | Automação Inteligente | Engenharia Sólida |
-| :---: | :---: | :---: |
-| UI em **CustomTkinter** com modo escuro e responsividade. | Captura nativa de **Hotkeys** (ex: Ctrl+C) e scripts. | Arquitetura modular, Logs detalhados e Instalador profissional. |
-🛠️ **Tech Stack:** Python 3.10+, PyAutoGUI, Keyboard, Threading, Inno Setup.
----
-## 📁 Portfólio de Projetos
-Uma visão organizada dos meus repositórios públicos e suas tecnologias principais.
-| Repositório | Tecnologias Principais | Propósito Resumido |
-| :--- | :--- | :--- |
-| **[AutoClicker](https://github.com/Dante-Alsino/AutoClicker)** | 🐍 Python / Inno Setup | Ferramenta desktop completa para automação de rotinas no Windows. |
-| **[FormularioCompass](https://github.com/Dante-Alsino/FormularioCompass)** | 🌐 JS / HTML / CSS | Interfaces web e formulários interativos (Estágio Compass). |
-| **[Api-Mini-Banco-Central](https://github.com/Dante-Alsino/Api-Mini-Banco-Central)** | ☕ JavaScript | API simulada para integração de dados financeiros. |
-| **[lab-natty-or-not](https://github.com/Dante-Alsino/lab-natty-or-not)** | 🤖 IA / Pesquisa | Estudo sobre o impacto da IA no futuro do trabalho. |
----
-## 🛠️ Tech Stack & Ferramentas
-Tenho experiência prática construindo desde scripts simples até aplicações completas.
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Windows" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-</div>
-<br>
+# Olá! Eu sou o Dante Alsino 👋
+<p align="left">
+  <a href="https://www.linkedin.com/in/dante-alsino-6b87b61a3/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:Dante.alsino57@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-## 📊 Minhas Estatísticas no GitHub
-<div align="center">
-  <a href="https://github.com/Dante-Alsino">
-  <!-- Adicionei hide=php para esconder a linguagem inflada -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Dante-Alsino&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dante-Alsino&layout=compact&langs_count=8&theme=radical&hide=php"/>
-  </a>
-</div>
+Sou **Desenvolvedor Full-Stack** focado em arquitetura de software, Clean Architecture e automação. Atualmente, estou no 5º semestre de **Sistemas para a Internet** no **IFSul Charqueadas**, combinando uma base técnica sólida em Informática com experiência prática de liderança técnica.
 
-### 📫 Vamos Conversar?
-Estou sempre aberto a colaborações em projetos Open Source e novas oportunidades.
-Sinta-se à vontade para explorar meus repositórios ou abrir uma Issue se tiver ideias!
+* **Liderança e Organização:** Atuei como **Tech Lead na Residência TIC 55**, coordenando equipe ágil via Scrum/Trello na entrega de projetos complexos (Joomla 5/PHP).
+* **Foco Atual:** Desenvolvimento do **Troca Justa Charqueadas** (meu projeto de TCC) construindo um e-commerce regional seguro, e estruturando fluxos avançados de automação com **n8n**.
 
+---
+## 🛠️ Stack Tecnológico e Ferramentas
+
+<table>
+  <tr>
+    <td><strong>Backend & Arquitetura</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.dot-js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Infraestrutura & Bancos</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Estatísticas 
+
+<p align="left">
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=Dante-Alsino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Dante-Alsino&layout=compact&theme=tokyonight" />
+</p>
+
+## 🏆 Projetos de Destaque
+
+Abaixo destaco as principais soluções do meu portfólio, desenhadas com foco em boas práticas e padrões arquiteturais robustos:
+
+### 🔄 [TrocaJusta](https://github.com/Dante-Alsino/TrocaJusta)
+> **Plataforma de e-commerce regional de vendas e trocas (Projeto de TCC).**
+* **Arquitetura:** Construída em Django (MVT) integrado a uma **Service Layer** para total desacoplamento da lógica de negócios e segurança.
+* **Qualidade & DevOps:** Alta cobertura de testes automatizados com **Pytest** e infraestrutura completamente containerizada com **Docker**.
+* **Stack:** `Python` `Django` `PostgreSQL` `Docker` `Pytest`
+
+### 💰 [Carteira-Mestre](https://github.com/Dante-Alsino/Carteira-Mestre)
+> **API de Gestão Financeira e Investimentos baseada em microsserviços.**
+* **Arquitetura:** Service-Oriented Architecture (SOA) baseada em princípios de **Clean Architecture**, contendo serviços de custódia e simulação distribuídos e particionamento de PostgreSQL.
+* **Destaques:** Frontend SPA desacoplado e padrões de resiliência (Fallback) aplicados na comunicação interna da API.
+* **Stack:** `Python` `Clean Architecture` `Microserviços` `Docker` `Javascript`
+
+### 🖱️ [AutoClicker Professional](https://github.com/Dante-Alsino/AutoClicker)
+> **Ferramenta desktop robusta para automação de tarefas e atalhos globais.**
+* **Destaques:** Interface gráfica nativa de alta resposta, sistema de persistência de logs e instalador profissional gerado com Inno Setup e PyInstaller.
+* **Stack:** `Python` `PyInstaller` `Inno Setup` `Desktop Automation`
+
+---
